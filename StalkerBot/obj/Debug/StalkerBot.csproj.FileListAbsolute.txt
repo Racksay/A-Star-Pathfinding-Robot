@@ -1,0 +1,7 @@
+C:\Users\Edvin\Google Drive\C\RobocodeBots\StalkerBot\StalkerBot\bin\Debug\robocode.dll
+C:\Users\Edvin\Google Drive\C\RobocodeBots\StalkerBot\StalkerBot\bin\Debug\robocode.xml
+C:\Users\Edvin\Google Drive\C\RobocodeBots\StalkerBot\StalkerBot\bin\Debug\StalkerBot.dll
+C:\Users\Edvin\Google Drive\C\RobocodeBots\StalkerBot\StalkerBot\bin\Debug\StalkerBot.pdb
+C:\Users\Edvin\Google Drive\C\RobocodeBots\StalkerBot\StalkerBot\obj\Debug\StalkerBot.dll
+C:\Users\Edvin\Google Drive\C\RobocodeBots\StalkerBot\StalkerBot\obj\Debug\StalkerBot.pdb
+C:\Users\Edvin\Google Drive\C\RobocodeBots\StalkerBot\StalkerBot\obj\Debug\StalkerBot.csprojResolveAssemblyReference.cache
